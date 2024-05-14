@@ -1,0 +1,14 @@
+#p {
+    background-color: red;
+    background: url(images/bg.gif) no-repeat left top;
+  }
+
+#titulo{
+    color: chocolate;
+}
+
+#img {
+        width: 300px;
+        height: 300px;
+        object-fit: cover;
+    }
